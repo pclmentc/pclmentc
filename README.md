@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pierre Clément-Colas</h1>
 <h3 align="center">A passionate frontend developer from france</h3>
 
-- 🔭 I’m currently working on [https://titania-gaming.com/](https://titania-gaming.com/)
-
 - 👯 I’m looking to collaborate on [Titania-WEB-DEV](https://titania-gaming.com/)
 
 <h3 align="left">Connect with me:</h3>
